@@ -252,4 +252,4 @@ $RECYCLE.BIN/
 #user added
 /docs
 /data/raw
-.env
+/data/preprocessed/extracted_transactions.xlsx
